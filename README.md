@@ -16,6 +16,3 @@ This repository contains a Jupyter Notebook for implementing collaborative filte
 1. Clone this repository.
 2. Install the required libraries.
 3. Run the Jupyter Notebook to generate recommendations.
-
-## License
-This project is licensed under the MIT License.
